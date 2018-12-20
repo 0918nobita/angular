@@ -1,9 +1,9 @@
 # Angular サンプル
 
-## ``angular-tour-of-heros`` プロジェクト
+## ``angular-tour-of-heroes`` プロジェクト
 
 ```bash
-ng new angular-tour-of-heros
-cd angular-tour-of-heros
+ng new angular-tour-of-heroes
+cd angular-tour-of-heroes
 ng serve --open
 ```
